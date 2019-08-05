@@ -59,7 +59,7 @@ standard deviation：
 Random Variable：一种函数，将随机过程映射到实际数字。一般大写字母表示：X,Y,Z。例如掷硬币：
 $$
 X=\begin{cases}
-1,\quad if\ heads \\\
+1,\quad if\ heads \\\\
 0,\quad if\ tails
 \end{cases}
 $$
