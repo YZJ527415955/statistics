@@ -108,7 +108,7 @@ $E(X)=\sum_{k=1}^{n}{k*\frac{n!}{(k)!(n-k)!}}p^k(1-p)^{n-k}$
 
 概率函数：
 
-$P(X=k)=\lim_{n \to \infty}\begin{pmatrix}n\\k\end{pmatrix}(\frac{λ}{n})^k(1-\frac{λ}{n})^{n-k}$
+$P(X=k)=\lim_{n \to \infty}\begin{pmatrix}n\\\k\end{pmatrix}(\frac{λ}{n})^k(1-\frac{λ}{n})^{n-k}$
 
 $=\lim_{n \to \infty}(\frac{n(n-1)···(n-k+1)}{n^k})\frac{λ^k}{k!}(1-\frac{λ}{n})^{n}(1-\frac{λ}{n})^{-k}$
 
